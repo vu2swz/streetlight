@@ -13,4 +13,5 @@ Ultrasonic Sensor
 LDR.
 
 Future Improvement.
+
 We planned to make the system artificially intellegent by using some ai client such as wit.ai so that the admin can monitor the system from a centralised place.For that we decide to run a centralised server which controls the entire system and monitors it.The system is capable of taking decisions by its own.
