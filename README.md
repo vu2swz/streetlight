@@ -4,9 +4,12 @@ By this project we developed an intellegent streetlighting system using discrete
 
 COMPONENTS USED                                                                                                                       
 
-Arduino uno
+Arduino Uno
+
 RTC_DS1307
+
 Ultrasonic Sensor
+
 LDR.
 
 Future Improvement.
